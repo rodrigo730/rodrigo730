@@ -1,7 +1,8 @@
 # 🧑🏻‍💻 Rodrigo Oliveira  
 
 **`Desenvolvedor Júnior`**
-</br></br>
+<br/>
+
 <font size="4">
 Olá! Me chamo Rodrigo Oliveira de Lima, tenho 21 anos e sou de São Paulo, Capital.
 
@@ -9,6 +10,7 @@ Sou formado em Técnico em Desenvolvimento de Sistemas pela ETEC e em Análise e
 
 Atualmente, busco minha primeira oportunidade como Desenvolvedor de Software, onde possa aplicar meus conhecimentos, continuar evoluindo profissionalmente e contribuir com o desenvolvimento de soluções.
 </font>
+
 # Tecnologias 
 
 <p>
@@ -32,12 +34,12 @@ Atualmente, busco minha primeira oportunidade como Desenvolvedor de Software, on
   <tr>
     <td valign="top">
       <a href="https://github.com/rodrigo730">
-        <img height="180" src="https://github-stats-extended.vercel.app/api?username=rodrigo730&show_icons=true&include_all_commits=true&theme=dark_github&v=1" alt="GitHub Stats" />
+        <img height="180" src="https://github-stats-extended.vercel.app/api?username=rodrigo730&show_icons=true&include_all_commits=true&theme=dark_github&v=2" alt="GitHub Stats" />
       </a>
     </td>
     <td valign="top">
       <a href="https://github.com/rodrigo730">
-        <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs?username=rodrigo730&langs_count=6&hide=html,tex,css&theme=dark_github&v=1" alt="Top Languages" />
+        <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs?username=rodrigo730&langs_count=6&hide=html,tex,css&theme=dark_github&v=2" alt="Top Languages" />
       </a>
     </td>
   </tr>
