@@ -1,13 +1,14 @@
 # 🧑🏻‍💻 Rodrigo Oliveira  
 
 **`Desenvolvedor Júnior`**
-
+</br></br>
+<font size="4">
 Olá! Me chamo Rodrigo Oliveira de Lima, tenho 21 anos e sou de São Paulo, Capital.
 
 Sou formado em Técnico em Desenvolvimento de Sistemas pela ETEC e em Análise e Desenvolvimento de Sistemas pelo Senac São Paulo.
 
 Atualmente, busco minha primeira oportunidade como Desenvolvedor de Software, onde possa aplicar meus conhecimentos, continuar evoluindo profissionalmente e contribuir com o desenvolvimento de soluções.
-
+</font>
 # Tecnologias 
 
 <p>
@@ -17,6 +18,9 @@ Atualmente, busco minha primeira oportunidade como Desenvolvedor de Software, on
   <img align="left" alt="Laravel" title="Laravel" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
   <img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
   <img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img align="left" alt="SQL" title="SQL" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+   <img align="left" alt="GITLAB" title="GITLAB" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" />
+   <img align="left" alt="django" title="DJANGO" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" />
 </p>
 
 <br />
@@ -38,3 +42,17 @@ Atualmente, busco minha primeira oportunidade como Desenvolvedor de Software, on
     </td>
   </tr>
 </table>
+
+---
+# Contatos
+<p align="left">
+  <a href="www.linkedin.com/in/rodrigooliveira2502" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="ro783073@exemplo.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
+
+
+
