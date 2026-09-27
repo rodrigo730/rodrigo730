@@ -1,26 +1,84 @@
-### Rodrigo Oliveira  
+# 🧑🏻‍💻 Rodrigo Oliveira  
 
-![rodrigo730 GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigo730&show_icons=true&theme=gotham)  
+**`Desenvolvedor Júnior`**
+
+Olá! Me chamo Rodrigo Oliveira de Lima, tenho 21 anos e sou de São Paulo, Capital.
+
+Sou formado em Técnico em Desenvolvimento de Sistemas pela ETEC e em Análise e Desenvolvimento de Sistemas pelo Senac São Paulo.
+
+Atualmente, busco minha primeira oportunidade como Desenvolvedor de Software, onde possa aplicar meus conhecimentos, continuar evoluindo profissionalmente e contribuir com o desenvolvimento de soluções.
+
+# Tecnologias 
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="PHP" 
+    title="PHP"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Laravel" 
+    title="Laravel"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
 
 
-### Tecnologias 
+<br/>
+<br/>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rod-Js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img align="center" alt="Rod-Php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-  <img align="center" alt="Rod-HTML"  src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img align="center" alt="Rod-CSS"  src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img align="center" alt="Rod-CSS"  src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-</div>
- <img align="center" alt="Rod-CSS"  src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigo730)](https://github.com/rodrigo730/github-readme-stats)
- ### Contatos
-
-<div> 
-  <a href = "ro783073mailto:@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rodrigooliveira2502/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-
-</div>
+<a href="https://github-stats-extended.vercel.app/api?username=rodrigo730">
+  <picture>
+    <source
+      srcset="https://github-stats-extended.vercel.app/api?username=rodrigo730&theme=dark_github"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img height="200" align="center" src="https://github-stats-extended.vercel.app/api?username=rodrigo730&show_icons=true&include_all_commits=true&theme=dark_github" />
+  </picture>
+</a>
+<a href="https://github-stats-extended.vercel.app/api/top-langs?username=rodrigo730&layout=compact&langs_count=8&card_width=320">
+  <picture>
+    <source
+      srcset="https://github-stats-extended.vercel.app/api/top-langs?username=rodrigo730&layout=compact&langs_count=8&card_width=320&theme=dark_github"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img height="200" align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=rodrigo730&langs_count=4&theme=dark_github" />
+  </picture>
+</a>
