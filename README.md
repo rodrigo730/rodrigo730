@@ -46,10 +46,10 @@ Atualmente, busco minha primeira oportunidade como Desenvolvedor de Software, on
 ---
 # Contatos
 <p align="left">
-  <a href="www.linkedin.com/in/rodrigooliveira2502" target="_blank">
+  <a href="https://www.linkedin.com/in/rodrigooliveira2502/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="ro783073@exemplo.com">
+  <a href="mailto:ro783073@exemplo.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
