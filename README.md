@@ -8,7 +8,7 @@ Olá! Me chamo Rodrigo Oliveira de Lima, tenho 21 anos e sou de São Paulo, Capi
 
 Sou formado em Técnico em Desenvolvimento de Sistemas pela ETEC e em Análise e Desenvolvimento de Sistemas pelo Senac São Paulo.
 
-Atualmente, busco minha primeira oportunidades, onde possa aplicar meus conhecimentos, continuar evoluindo profissionalmente e contribuir com o desenvolvimento de soluções.
+Atualmente, busco oportunidades, onde possa aplicar meus conhecimentos, continuar evoluindo profissionalmente e contribuir com o desenvolvimento de soluções.
 </font>
 
 # Tecnologias 
